@@ -1,0 +1,5 @@
+# ninja log v5
+185	314	1699628406330945063	/Users/jon/dev/oculus-test/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.oculustest/gradle-project/unityLibrary/build/intermediates/cxx/Debug/1s38f74y/obj/arm64-v8a/libswappywrapper.so	5126a60dc2a6bf35
+0	185	1699628406228042016	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	890ec16818927906
+9	6558	1699885825553806901	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	890ec16818927906
+6559	11234	1699885829285962518	/Users/jon/dev/oculus-test/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.oculustest/gradle-project/unityLibrary/build/intermediates/cxx/Debug/1s38f74y/obj/arm64-v8a/libswappywrapper.so	5126a60dc2a6bf35
