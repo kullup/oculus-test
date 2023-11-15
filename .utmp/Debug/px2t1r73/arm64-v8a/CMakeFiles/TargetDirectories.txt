@@ -1,0 +1,5 @@
+/Users/jon/dev/oculus-test/.utmp/Debug/px2t1r73/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/jon/dev/oculus-test/.utmp/Debug/px2t1r73/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/jon/dev/oculus-test/.utmp/Debug/px2t1r73/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/jon/dev/oculus-test/.utmp/Debug/px2t1r73/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/jon/dev/oculus-test/.utmp/Debug/px2t1r73/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
