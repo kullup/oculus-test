@@ -1,3 +1,5 @@
 # ninja log v5
-0	108	1699627900728312939	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	741fa6767f2a63fa
 108	208	1699627900808432648	/Users/jon/dev/oculus-test/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/g1q6k1q1/obj/arm64-v8a/libswappywrapper.so	a4645fd38836b3e2
+0	108	1699627900728312939	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	741fa6767f2a63fa
+0	9088	1700031518565105910	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	741fa6767f2a63fa
+9088	14396	1700031522998574854	/Users/jon/dev/oculus-test/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/g1q6k1q1/obj/arm64-v8a/libswappywrapper.so	a4645fd38836b3e2
