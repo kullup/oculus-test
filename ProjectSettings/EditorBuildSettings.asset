@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/DemoScene.unity
     guid: 319dafa5c80f29f428dc1e0d03f04177
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Room.unity
     guid: 48063ed8b7ddd4e598a9c384aa459e80
+  - enabled: 1
+    path: Assets/Scenes/Cube Room.unity
+    guid: abc780cfd54a84235b506b60c7488242
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ea8b8e007e8944f65a41e526391655ef, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9951f3395acb3496cbe73c100cdb5775, type: 2}
